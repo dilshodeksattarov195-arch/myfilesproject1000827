@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingderify",
+        "uuid": 4768482,
+        "checksum": "iefwfa"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
